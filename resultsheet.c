@@ -1,6 +1,8 @@
 #include<stdio.h>
 main()
 {
+    /* 5 subjects number count and show result*/
+    
     float num1,num2,num3,num4,num5,total,percentage;
     printf("Enter num1 number:");
     scanf("%f",&num1);
